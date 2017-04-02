@@ -1,2 +1,2 @@
 # pybrain
-A brain, written in Python
+A whole brain, written in Python
